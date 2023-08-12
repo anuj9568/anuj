@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/anuj-kumar-gupta-9450771157/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
+            "href": "https://github.com/anuj9568"
+        },  
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:anujgupta940510@gmail.com"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://instagram.com/_guptaanuj_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"
         }
     ]
 }
