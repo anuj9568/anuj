@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "August 2013 - Jun 2017",
+            "cardTitle": "B.Tech",
+            "cardSubtitle":"Dr. A.P.J. Abdul Kalam Technical University",
+            "cardDetailedText": "CGPA - 7.5",
+            "icon" : {
+                "src": "images/education/university.png"
+            }
+        },
+        {
+            "title": "Apr 2012",
+            "cardTitle": "Junior college",
+            "cardSubtitle":"Sri Raghukul Vidya Peeth, Gonda UP",
+            "cardDetailedText": "Marks - 67%"
+        },
+        {
+            "title": "Apr 2010",
+            "cardTitle": "High School",
+            "cardSubtitle":"Sri Raghukul Vidya Peeth, Gonda UP",
+            "cardDetailedText": "CGPA - 7.4"
+        }
+    ]
+}

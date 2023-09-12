@@ -1,0 +1,11 @@
+{
+  "Blogs": [
+    {
+      "title": "Travel Blogs",
+      "subtitle": "Travel Blogs",
+      "travel-type": "Domestic",
+      "travelDescription": ["Statewise"],
+      "dateText": "August 2018"
+    }
+  ]
+}

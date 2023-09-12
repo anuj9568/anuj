@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[464],{6464:function(e,n,t){t.r(n);t(2791);var r=t(184),i={spinnerContainerStyle:{display:"flex",justifyContent:"center",alignItems:"center",height:"100%"}};n.default=function(){return(0,r.jsx)("div",{style:i.spinnerContainerStyle,children:(0,r.jsx)("h3",{children:"This page is under constructon, stay tuned for more updates\ud83d\ude00."})})}}}]);
+//# sourceMappingURL=464.15ee26b4.chunk.js.map
